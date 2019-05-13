@@ -1,0 +1,101 @@
+ID,Latitude,Longitude,Place,Number of Accident,Speed,Car Per Hour,Lighting Conditions,Number of Injured,Month,Year,Accident Date
+RA00001,22.560068,88.35247,10,10,30,100,Daylight: Street lights present,1,JAN,2017,1/14/2017
+RA00002,22.5867,88.4171,20,12,40,50,Daylight: Street lights present,2,JAN,2017,01/01/2017
+RA00003,22.6138,88.4306,30,12,50,80,Daylight: Street lights present,1,JAN,2017,01/01/2017
+RA00004,22.642,88.4312,40,12,60,120,Darkness: Street lights present and lit,1,JAN,2017,01/01/2017
+RA00005,22.5958,88.2636,50,19,80,60,Daylight: Street lights present,1,JAN,2017,01/01/2017
+RA00006,22.560068,88.35247,10,20,50,75,Daylight: Street lights present,2,JAN,2017,01/02/2017
+RA00007,22.5867,88.4171,20,13,40,92,Daylight: Street lights present,2,JAN,2017,01/02/2017
+RA00008,22.6138,88.4306,30,12,35,94,Darkness: No street lighting,2,JAN,2017,01/02/2017
+RA00009,22.642,88.4312,40,15,45,85,Darkness: No street lighting,2,JAN,2017,01/02/2017
+RA00010,22.5958,88.2636,50,12,85,88,Darkness: No street lighting,3,JAN,2017,01/02/2017
+RA00011,22.560068,88.35247,10,12,65,100,Darkness: Street lights present and lit,3,JAN,2017,01/02/2017
+RA00012,22.5867,88.4171,20,12,61,150,Darkness: Street lights present and lit,1,JAN,2017,01/02/2017
+RA00013,22.6138,88.4306,30,20,69,40,Daylight: Street lights present,2,JAN,2017,01/03/2017
+RA00014,22.642,88.4312,40,12,78,80,Daylight: Street lights present,2,JAN,2017,01/04/2017
+RA00015,22.5958,88.2636,50,12,74,90,Daylight: Street lights present,1,JAN,2017,01/04/2017
+RA00016,22.560068,88.35247,10,15,50,100,Daylight: Street lights present,2,JAN,2017,01/04/2017
+RA00017,22.5867,88.4171,20,10,60,120,Daylight: Street lights present,2,JAN,2017,01/04/2017
+RA00018,22.6138,88.4306,30,18,70,62,Darkness: Street lights present and lit,2,JAN,2017,01/04/2017
+RA00019,22.642,88.4312,40,40,42,65,Darkness: Street lights present and lit,2,JAN,2017,01/04/2017
+RA00020,22.5958,88.2636,50,12,45,68,Darkness: Street lights present and lit,2,JAN,2017,01/04/2017
+RA00021,22.560068,88.35247,10,12,46,93,Daylight: Street lights present,1,JAN,2017,01/05/2017
+RA00022,22.5867,88.4171,20,10,48,59,Daylight: Street lights present,2,JAN,2017,01/05/2017
+RA00023,22.6138,88.4306,30,12,47,75,Daylight: Street lights present,2,JAN,2017,01/05/2017
+RA00024,22.642,88.4312,40,12,49,84,Darkness: Street lighting unknown,1,JAN,2017,01/06/2017
+RA00025,22.5958,88.2636,50,15,45,52,Darkness: Street lights present and lit,2,JAN,2017,01/06/2017
+RA00026,22.560068,88.35247,10,20,56,63,Darkness: Street lights present and lit,3,JAN,2017,01/06/2017
+RA00027,22.5867,88.4171,20,45,52,61,Darkness: Street lights present and lit,2,JAN,2017,01/06/2017
+RA00028,22.6138,88.4306,30,40,59,69,Darkness: Street lights present and lit,2,JAN,2017,01/06/2017
+RA00029,22.642,88.4312,40,50,85,79,Daylight: Street lights present,2,JAN,2017,01/07/2017
+RA00030,22.5958,88.2636,50,30,54,84,Daylight: Street lights present,1,JAN,2017,01/07/2017
+RA00031,22.560068,88.35247,10,45,56,52,Darkness: Street lights present and lit,2,JAN,2017,01/03/2017
+RA00032,22.5867,88.4171,20,18,56,93,Darkness: Street lights present and lit,2,JAN,2017,01/03/2017
+RA00033,22.6138,88.4306,30,22,70,72,Daylight: Street lights present,2,JAN,2017,01/07/2017
+RA00034,22.642,88.4312,40,46,40,81,Darkness: Street lights present and lit,2,JAN,2017,01/07/2017
+RA00035,22.5958,88.2636,50,33,30,52,Daylight: Street lights present,2,JAN,2017,01/09/2017
+RA00036,22.560068,88.35247,10,42,50,93,Daylight: Street lights present,2,JAN,2017,01/09/2017
+RA00037,22.5867,88.4171,20,26,50,75,Daylight: Street lights present,2,JAN,2017,01/09/2017
+RA00038,22.6138,88.4306,30,16,60,81,Daylight: Street lights present,2,JAN,2017,01/09/2017
+RA00039,22.642,88.4312,40,32,61,82,Darkness: Street lights present and lit,2,JAN,2017,01/09/2017
+RA00040,22.5958,88.2636,50,15,42,94,Daylight: Street lights present,1,JAN,2017,01/10/2017
+RA00041,22.560068,88.35247,10,10,42,83,Daylight: Street lights present,2,JAN,2017,01/10/2017
+RA00042,22.5867,88.4171,20,40,45,86,Daylight: Street lights present,2,JAN,2017,01/10/2017
+RA00043,22.6138,88.4306,30,31,45,94,Darkness: Street lighting unknown,1,JAN,2017,01/10/2017
+RA00044,22.642,88.4312,40,26,46,73,Darkness: Street lights present and lit,2,JAN,2017,01/10/2017
+RA00045,22.5958,88.2636,50,18,80,49,Darkness: Street lights present and lit,2,JAN,2017,01/10/2017
+RA00046,22.560068,88.35247,10,19,70,80,Darkness: Street lights present and lit,2,JAN,2017,01/10/2017
+RA00047,22.5867,88.4171,20,33,50,73,Darkness: Street lights present and lit,2,JAN,2017,01/10/2017
+RA00048,22.6138,88.4306,30,20,53,100,Daylight: Street lights present,2,JAN,2017,01/11/2017
+RA00049,22.642,88.4312,40,20,64,95,Daylight: Street lights present,1,JAN,2017,01/11/2017
+RA00050,22.5958,88.2636,50,16,69,85,Daylight: Street lights present,1,JAN,2017,01/11/2017
+RA00051,22.560068,88.35247,10,11,45,84,Daylight: Street lights present,1,JAN,2017,01/11/2017
+RA00052,22.5867,88.4171,20,12,49,40,Daylight: Street lights present,2,JAN,2017,01/11/2017
+RA00053,22.6138,88.4306,30,10,42,100,Darkness: Street lights present and lit,2,JAN,2017,01/11/2017
+RA00054,22.642,88.4312,40,42,43,50,Darkness: Street lighting unknown,2,JAN,2017,01/12/2017
+RA00055,22.5958,88.2636,50,15,48,80,Darkness: Street lighting unknown,2,JAN,2017,01/12/2017
+RA00056,22.560068,88.35247,10,19,49,120,Darkness: Street lighting unknown,2,JAN,2017,01/12/2017
+RA00057,22.5867,88.4171,20,10,48,60,Daylight: Street lights present,2,JAN,2017,01/12/2017
+RA00058,22.6138,88.4306,30,15,42,75,Daylight: Street lights present,2,JAN,2017,01/12/2017
+RA00059,22.642,88.4312,40,22,71,92,Daylight: Street lights present,1,JAN,2017,01/12/2017
+RA00060,22.5958,88.2636,50,15,51,94,Daylight: Street lights present,1,JAN,2017,01/12/2017
+RA00061,22.560068,88.35247,10,11,36,85,Daylight: Street lights present,1,JAN,2017,01/12/2017
+RA00062,22.5867,88.4171,20,12,38,88,Darkness: Street lights present and lit,3,JAN,2017,01/12/2017
+RA00063,22.6138,88.4306,30,13,39,100,Darkness: Street lighting unknown,3,JAN,2017,1/13/2017
+RA00064,22.642,88.4312,40,19,37,150,Daylight: Street lights present,1,JAN,2017,1/13/2017
+RA00065,22.5958,88.2636,50,18,39,40,Daylight: Street lights present,1,JAN,2017,1/13/2017
+RA00066,22.560068,88.35247,10,17,34,80,Darkness: Street lights present and lit,1,JAN,2017,1/13/2017
+RA00067,22.5867,88.4171,20,20,30,90,Darkness: No street lighting,2,JAN,2017,1/13/2017
+RA00068,22.6138,88.4306,30,14,40,100,Darkness: No street lighting,2,JAN,2017,1/13/2017
+RA00069,22.642,88.4312,40,20,50,120,Darkness: Street lights present and lit,2,JAN,2017,1/13/2017
+RA00070,22.5958,88.2636,50,10,60,62,Darkness: Street lights present and lit,2,JAN,2017,1/13/2017
+RA00071,22.560068,88.35247,10,15,80,65,Darkness: No street lighting,2,JAN,2017,1/14/2017
+RA00072,22.5867,88.4171,20,45,50,68,Darkness: Street lights present and lit,2,JAN,2017,1/14/2017
+RA00073,22.6138,88.4306,30,12,40,93,Daylight: Street lights present,1,JAN,2017,1/14/2017
+RA00074,22.642,88.4312,40,16,35,59,Darkness: Street lighting unknown,3,JAN,2017,1/14/2017
+RA00075,22.5958,88.2636,50,18,45,75,Darkness: Street lights present and lit,3,JAN,2017,1/14/2017
+RA00076,22.560068,88.35247,10,20,85,84,Darkness: Street lights present and lit,2,JAN,2017,1/14/2017
+RA00077,22.5867,88.4171,20,50,65,52,Darkness: Street lights present and lit,2,JAN,2017,1/14/2017
+RA00078,22.6138,88.4306,30,20,61,63,Darkness: Street lights present and lit,2,JAN,2017,1/15/2017
+RA00079,22.642,88.4312,40,19,69,61,Daylight: Street lights present,2,JAN,2017,1/15/2017
+RA00080,22.5958,88.2636,50,33,78,69,Daylight: Street lights present,2,JAN,2017,1/15/2017
+RA00081,22.560068,88.35247,10,22,74,79,Daylight: Street lights present,2,JAN,2017,1/15/2017
+RA00082,22.5867,88.4171,20,38,50,84,Daylight: Street lights present,3,JAN,2017,1/16/2017
+RA00083,22.6138,88.4306,30,45,60,52,Daylight: Street lights present,1,JAN,2017,1/16/2017
+RA00084,22.642,88.4312,40,49,70,93,Daylight: Street lights present,2,JAN,2017,1/16/2017
+RA00085,22.5958,88.2636,50,10,42,72,Daylight: Street lights present,3,JAN,2017,1/16/2017
+RA00086,22.560068,88.35247,10,44,45,81,Daylight: Street lights present,2,JAN,2017,1/16/2017
+RA00087,22.5867,88.4171,20,35,46,52,Daylight: Street lights present,2,JAN,2017,1/16/2017
+RA00088,22.6138,88.4306,30,37,48,93,Darkness: Street lights present and lit,2,JAN,2017,1/15/2017
+RA00089,22.642,88.4312,40,33,47,75,Darkness: Street lights present and lit,2,JAN,2017,1/15/2017
+RA00090,22.5958,88.2636,50,36,49,81,Darkness: Street lights present and lit,2,JAN,2017,1/15/2017
+RA00091,22.560068,88.35247,10,12,45,82,Darkness: Street lighting unknown,2,JAN,2017,1/15/2017
+RA00092,22.5867,88.4171,20,43,56,94,Darkness: Street lighting unknown,2,JAN,2017,1/15/2017
+RA00093,22.6138,88.4306,30,46,52,83,Darkness: Street lights present and lit,2,JAN,2017,1/16/2017
+RA00094,22.642,88.4312,40,22,59,86,Darkness: Street lights present and lit,2,JAN,2017,1/16/2017
+RA00095,22.5958,88.2636,50,26,85,94,Daylight: Street lights present,2,JAN,2017,1/16/2017
+RA00096,22.560068,88.35247,10,12,54,73,Daylight: Street lights present,2,JAN,2017,1/16/2017
+RA00097,22.5867,88.4171,20,11,56,49,Darkness: Street lights present and lit,2,JAN,2017,1/16/2017
+RA00098,22.6138,88.4306,30,22,56,80,Darkness: Street lights present and lit,1,JAN,2017,1/16/2017
+RA00099,22.642,88.4312,40,12,70,73,Darkness: Street lights present and lit,1,JAN,2017,1/16/2017
+RA00100,22.5958,88.2636,50,22,40,100,Daylight: Street lights present,1,JAN,2017,1/17/2017
